@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">PracticalWork</string>
+    <string name="Welcome">Добро пожаловать!</string>
+    <string name="Login">Введите Ваше имя</string>
+    <string name="Authorization">Войти</string>
+    <string name="Enterance">Вход</string>
+
+    <string name="ing1">Соус</string>
+    <string name="ing2">Томаты</string>
+    <string name="ing3">Лук</string>
+    <string name="ing4">Ветчина</string>
+    <string name="ing5">Куриная грудка</string>
+    <string name="ing6">Маслины</string>
+    <string name="ing7">Сыр</string>
+    <string name="ing8">Укроп</string>
+</resources>
